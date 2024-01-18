@@ -1,0 +1,21 @@
+
+admin		010
+
+doctor1	123
+doctor2	123
+doctor3	123
+doctor4	123
+doctor5	123
+doctor6	123
+
+patient1	234
+patient2	234
+patient3	234
+patient4	234
+patient5	234
+patient6	234
+patient7	234
+
+accountant	345
+
+Pofficer	456

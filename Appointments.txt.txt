@@ -1,0 +1,40 @@
+Dr.Rabia
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Arsalan
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Ahmad
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Hadia
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Rania
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Madiha
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Haris
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Momin
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Ayaan
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital
+Dr.Fabiha
+10:00 A.M Hospital
+12:00 A.M. Hospital
+03:00 P.M Hospital

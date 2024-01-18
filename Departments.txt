@@ -1,0 +1,18 @@
+Surgery
+Dr.Rabia
+Dr.Arsalan
+
+Physician
+Dr Ahmad
+Dr.Hadia
+Dr.Momin
+
+ENT
+Dr.Rania
+Dr.Madiha
+Dr.Ayaan
+
+Diabetes
+Dr.Haris
+Dr.Momin
+Dr.Fabiha
